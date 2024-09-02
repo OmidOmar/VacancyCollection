@@ -12,7 +12,7 @@ import datetime
 chrome_driver_path = "/Users/omidomar/Documents/Python/LinkedIN/CD/chromedriver"
 
 # Path to the CSV file containing URLs
-get_file=user_input = input("File name: ")
+get_file=user_input = input("CSV File name: ")
 csv_file_path = "/Users/omidomar/Documents/Python/LinkedIN/"+get_file+'.csv'
 
 # User credentials
